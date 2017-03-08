@@ -20,7 +20,7 @@
 # 6. Bild hinzufügen 
 
 * Bild in Ordner speichern, wichtig Endung mit .jpg 
-*  ![Screenshot](Unbenannt.jpg) 
+* `![Screenshot](Unbenannt.jpg)` 
 
 ![Screenshot](Unbenannt.jpg) 
 
