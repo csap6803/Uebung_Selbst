@@ -26,8 +26,10 @@
 
 # 7. Quelle hinzufügen 
 
-Quelle: Screenshot von Arbeitsweise 
+* Quelle: Screenshot von Arbeitsweise 
         Erstellt Johannes Weber
+* Bei Links: [Bildname](Link)
+		
 
 
 
