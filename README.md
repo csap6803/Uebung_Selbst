@@ -15,7 +15,10 @@
 
 # GitHub New Repository erstellen. Wichtig: Gleicher Ordnername
 
-# Bild hinzufügen mit
+# Bild hinzufügen 
+
+* Bild in Ordner speichern, wichtig Endung mit .jpg 
+* ![Screenshot](Unbenannt.jpg) 
 
 ![Screenshot](Unbenannt.jpg) 
 
