@@ -11,7 +11,13 @@
 
 # Notepad speichern 
 
-*Save As  README.md und all types 
+* Save As  README.md und all types 
+
+# GitHub New Repository erstellen. Wichtig: Gleicher Ordnername
+
+# Bild hinzufügen mit
+
+![Screenshot](Unbenannt.jpg) 
 
 
 
