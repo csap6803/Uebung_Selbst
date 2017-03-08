@@ -29,7 +29,7 @@
 * Quelle: Screenshot von Arbeitsweise 
         Erstellt Johannes Weber
 * Bei Links: [Bildname](Link)
-		
+  Code dafür: `[Bildname](Link)`	
 
 
 
